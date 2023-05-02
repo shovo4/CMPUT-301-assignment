@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option_for_adding"
+        android:title="Add game sessions"></item>
+    <item
+        android:id="@+id/option_for_editing"
+        android:title="View and Edit game sessions"></item>
+    <item
+        android:id="@+id/option_for_deleting"
+        android:title="Delete a game session"></item>
+</menu>
